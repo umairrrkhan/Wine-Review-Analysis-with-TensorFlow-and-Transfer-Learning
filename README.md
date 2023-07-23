@@ -27,20 +27,6 @@ The project utilizes the following tools and libraries:
 - pandas: A library for data manipulation and analysis in Python.
 - matplotlib: A library for creating visualizations in Python.
 
-## Screenshots
-
-Screenshot 1:
-![Screenshot 1](first ss.png)
-
-Screenshot 2: 
-![Screenshot 2](first 2 ss .png)
-
-Screenshot 3: 
-![Screenshot 3](first 3 ss.png)
-
-Screenshot 4: 
-![Screenshot 4](first 4 ss .png)
-
 ## Project Workflow
 
 The project's workflow can be broken down into the following steps:
