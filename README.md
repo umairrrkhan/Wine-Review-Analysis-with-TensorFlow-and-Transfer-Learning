@@ -14,7 +14,7 @@ The dataset used in this project is available in 'wine-reviews.csv'. It contains
 - 'variety': The variety or type of the wine.
 - 'winery': The winery that produces the wine.
 
-You can download the dataset from this link: [wine-reviews.csv]([link_to_dataset](https://www.dropbox.com/s/1huhkndjul5s7ku/wine-reviews.csv?dl=0))
+You can download the dataset from this link: [wine-reviews.csv]((https://www.dropbox.com/s/1huhkndjul5s7ku/wine-reviews.csv?dl=0))
 
 ## Tools and Libraries Used
 
