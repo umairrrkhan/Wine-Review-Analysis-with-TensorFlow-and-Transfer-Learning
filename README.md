@@ -45,5 +45,3 @@ The project's workflow can be broken down into the following steps:
 By the end of this project, we expect to have gained valuable insights into the wine reviews using TensorFlow and transfer learning. The visualizations and predictions will provide meaningful information for wine enthusiasts, winemakers, and anyone interested in understanding the sentiments and characteristics of different wines.
 
 Feel free to explore the code and dataset to enhance your understanding of wine review analysis and TensorFlow-based machine learning.
-
-Happy Analyzing!
